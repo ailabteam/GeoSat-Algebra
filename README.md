@@ -110,5 +110,5 @@ This foundational work is specifically designed to be the geometry backbone for 
 *   **Research Direction:** Explore mapping the Geometric Product onto **Quantum Circuits** (using tools like Qiskit or Pennylane) or using **Quantum Annealers** to potentially achieve quadratic or exponential speedup in the complex collision/proximity calculation stage for massive constellation simulations.
 
 ---
-*Developed by Phuc Hao Do*
+
 *License: MIT*
