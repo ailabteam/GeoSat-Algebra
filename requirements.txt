@@ -1,0 +1,8 @@
+# requirements.txt
+clifford
+numpy
+scipy
+matplotlib
+# Thư viện visualization 3D (cần thiết cho mô tả hình học)
+vedo
+trimesh
